@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | DevOps Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Automating+workflows+with+CI%2FCD;Exploring+AI%2FML+innovations;Always+learning%2C+always+coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Automating+workflows+with+DevOps;Exploring+ML+and+AI+technologies;Always+learning%2C+always+growing" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-teja-rathikindi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
@@ -18,7 +18,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a passionate developer who loves turning complex problems into elegant solutions. With a strong foundation in **full-stack development** and a keen interest in **DevOps practices**, I build applications that are not just functional, but scalable, maintainable, and production-ready.
+I'm a passionate developer who loves turning complex problems into elegant solutions. With a strong foundation in **full-stack development** and a keen interest in **DevOps practices**, I build applications that are not just functional, but scalable and maintainable.
 
 - 🔭 Currently working on **enterprise-grade full-stack applications**
 - 🌱 Diving deep into **Docker, Jenkins, and CI/CD pipelines**
@@ -136,12 +136,16 @@ Intelligent audio processing system leveraging machine learning for speaker diar
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharanTeja-6825&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanTeja-6825&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharanTeja-6825&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanTeja-6825&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharanTeja-6825&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CharanTeja-6825&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharanTeja-6825&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -220,7 +224,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 📈 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/CharanTeja-6825/count.svg)
+[![](https://visitcount.itsvg.in/api?id=CharanTeja-6825&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ⭐ Star My Repos
 
