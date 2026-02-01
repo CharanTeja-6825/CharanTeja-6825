@@ -138,8 +138,9 @@ Intelligent audio processing system leveraging machine learning for speaker diar
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CharanTeja-6825&hide_border=true)](https://git.io/streak-stats)
 
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharanTeja-6825&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharanTeja-6825&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
