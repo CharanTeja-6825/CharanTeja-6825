@@ -40,6 +40,7 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 
 ### ⚙️ Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.0--RELEASE-blue?logo=spring-boot)](https://spring.io/projects/spring-boot)Copied!   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -135,11 +136,7 @@ Intelligent audio processing system leveraging machine learning for speaker diar
 
 ## 📊 GitHub Analytics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CharanTeja-6825&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CharanTeja-6825&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CharanTeja-6825&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharanTeja-6825&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
