@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Automating+workflows+with+DevOps;Exploring+ML+and+AI+technologies;Always+learning%2C+always+growing" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-teja-rathikindi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://charanteja-6825.github.io/MacOS/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charanteja-6825.github.io/dev-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcharanteja2006@gmail.com)
 
 </div>
